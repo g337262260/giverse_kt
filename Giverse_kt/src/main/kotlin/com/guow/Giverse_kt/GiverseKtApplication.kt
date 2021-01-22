@@ -1,7 +1,9 @@
 package com.guow.Giverse_kt
 
 import com.guow.Giverse_kt.dao.ArticleRepository
+import com.guow.Giverse_kt.dao.NavigationRepository
 import com.guow.Giverse_kt.entity.Article
+import com.guow.Giverse_kt.entity.Navigation
 import org.springframework.boot.CommandLineRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -19,6 +21,7 @@ class GiverseKtApplication{
 //		article.content = "Easy Kotlin ${Date()}"
 //		repository.save(article)
 //	}
+
 }
 
 fun main(args: Array<String>) {

@@ -1,4 +1,4 @@
-package com.guow.Giverse_kt.controller
+package com.guow.Giverse_kt.controller.rest
 
 import com.guow.Giverse_kt.dao.ArticleRepository
 import com.guow.Giverse_kt.entity.Article
